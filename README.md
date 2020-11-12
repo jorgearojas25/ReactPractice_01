@@ -1,2 +1,5 @@
 # ReactPractice_01
-Reapaso de react con hooks
+To run this project do 
+
+npm i
+npm start
